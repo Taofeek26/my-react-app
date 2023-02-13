@@ -1,0 +1,9 @@
+.form-Input {
+    background-color: #282c34;
+    margin:auto;
+    color: white;
+    position:relative;
+    top:40px;
+    display: flex;
+    justify-content: flex-start;
+}

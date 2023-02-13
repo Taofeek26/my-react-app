@@ -1,0 +1,20 @@
+.bio-data{
+    position: relative;
+    background-color: red;
+    top:40px;
+    text-align: center;
+
+}
+
+.question{
+    text-align: left;
+    background-color: #282c34;
+    color:white;
+}
+
+.answer{
+    text-align: left;
+    background-color: green;
+    color:white;
+
+}

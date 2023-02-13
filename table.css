@@ -1,0 +1,8 @@
+thead, tbody{
+    position: relative;
+    top:40px;
+}
+
+td, th{
+    border: 2px solid !important;
+}
